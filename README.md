@@ -1,2 +1,2 @@
-# Evolve.Doc
-Documentation source for [Evolve](https://github.com/lecaillon/Evolve)
+# Evolve.Doc.v1
+Legacy documentation source for [Evolve](https://github.com/lecaillon/Evolve) v1
